@@ -253,7 +253,7 @@ for(int i = 0; i < soilHealth.length; i++){
       }
       }
     }
-    println(playerHealth);
+   
 		// > Remember to check if playerHealth is smaller than PLAYER_MAX_HEALTH!
     
 		// Groundhog
